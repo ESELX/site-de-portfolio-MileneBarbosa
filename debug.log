@@ -1,0 +1,6 @@
+[1120/101956.287:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Acesso negado. (0x5)
+[1120/101956.305:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O encaminhamento (pipe) foi terminado. (0x6D)
+[1120/101956.313:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Acesso negado. (0x5)
+[1120/102101.817:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Acesso negado. (0x5)
+[1120/102102.083:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O encaminhamento (pipe) foi terminado. (0x6D)
+[1120/102102.132:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Acesso negado. (0x5)
